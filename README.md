@@ -2,6 +2,9 @@
 
 A robust RESTful API for managing user-specific tasks, built with Django and Django REST Framework. This project features JWT authentication and auto-generated API documentation with Swagger for easy interaction and testing.
 
+<img width="2020" height="1304" alt="image" src="https://github.com/user-attachments/assets/72aa2e46-2abb-4705-ace9-f7fdfe2bbad6" />
+
+
 ---
 
 ## Features
