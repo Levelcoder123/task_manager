@@ -15,7 +15,7 @@ documentation with Swagger.
 
 1. **Clone this repository**
    ```bash
-   git clone <your-repository-url>
+   git clone git@github.com:Levelcoder123/task_manager.git
    cd task_manager
    ```
 
@@ -46,8 +46,9 @@ Visit `http://127.0.0.1:8000/swagger/` after starting the server.
 ## Authentication
 
 - Login with username and password to get a token.
+- Click on authorize button:
+  <img width="316" height="112" alt="image" src="https://github.com/user-attachments/assets/f65d9323-085f-4ec3-935f-64e51162c833" />
+
 - Use the token in the `Bearer` header for subsequent requests:
   Example:
-  ```
-  Bearer <your_token>
-  ```
+  <img width="854" height="519" alt="image" src="https://github.com/user-attachments/assets/2e52f309-de3c-4921-978e-96e41f1d8d9d" />
