@@ -48,7 +48,7 @@ Visit `http://127.0.0.1:8000/swagger/` after starting the server.
 - Login with username and password to get a token.
 - Click on authorize button:
 
-- <img width="316" height="112" alt="image" src="https://github.com/user-attachments/assets/f65d9323-085f-4ec3-935f-64e51162c833" />
+<img width="316" height="112" alt="image" src="https://github.com/user-attachments/assets/f65d9323-085f-4ec3-935f-64e51162c833" />
 
 
 - Use the token in the `Bearer` header for subsequent requests:
