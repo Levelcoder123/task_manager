@@ -1,0 +1,8 @@
+# Virtual Environment
+venv/
+
+# Django specific
+__pycache__/
+__init__.py
+.idea/
+db.sqlite3
